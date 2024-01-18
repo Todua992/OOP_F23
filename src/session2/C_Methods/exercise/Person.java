@@ -1,5 +1,4 @@
 package session2.C_Methods.exercise;
-import feedback.Feedback;
 
 /**
  * Start from Person class in A_ClassesAndObjects.

@@ -1,5 +1,4 @@
 package session1;
-import feedback.Feedback;
 
 /**
  * Why if we uncomment Line 16 we get an error? Try to fix it.
@@ -27,7 +26,6 @@ public class F_Exercise {
         //Any comments
         String comment = "No comments";
 
-        Feedback.submit("session1_F", I_did_finish, I_did_understand, comment);
 
 
     }

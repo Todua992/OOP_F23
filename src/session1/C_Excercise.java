@@ -1,5 +1,4 @@
 package session1;
-import feedback.Feedback;
 
 /**
  * Try to understand the rationale behind the outputs

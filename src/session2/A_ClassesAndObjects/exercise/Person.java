@@ -1,6 +1,5 @@
 package session2.A_ClassesAndObjects.exercise;
 
-import feedback.Feedback;
 
 /**
  * a) Write a class to represent a person. A person has a first name, last name, and an age.
@@ -25,8 +24,6 @@ public class Person {
 
         //Any comments
         String comment = "No comments";
-
-        feedback.Feedback.submit("session2_A_Classes", I_did_finish, I_did_understand, comment);
 
     }
 

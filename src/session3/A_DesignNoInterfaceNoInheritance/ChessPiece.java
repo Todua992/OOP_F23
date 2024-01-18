@@ -92,7 +92,6 @@ public class ChessPiece {
         //Any comments
         String comment = "No comments";
 
-        feedback.Feedback.submit("session3_A_ChessPiece", I_did_finish, I_did_understand, comment);
 
     }
 
